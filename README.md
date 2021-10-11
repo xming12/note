@@ -12,3 +12,5 @@
 [krhook模块(krhook实现了拦截系统调用并进行用户层堆栈回溯的功能)使用介绍](https://bbs.pediy.com/thread-269577.htm)
 
 [安卓GDB硬件断点使用说明，结合krhook的进行了功能演示](https://bbs.pediy.com/thread-269667.htm)
+
+[内核层文件重定向](https://github.com/yhnu/op7t/blob/dev/krhook/RREAME2.md)
